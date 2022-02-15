@@ -1,0 +1,25 @@
+{
+    "vagas": [
+        {
+            "id": 1,
+            "nome": "Dev Backend",
+            "foto": "software-engineers-at-Nubank.jpeg",
+            "descricao": "Apoiar na definição e implementação da arquitetura dos sistemas; - Reunir feedback e trabalhar em melhorias para usuários e clientes; - Ajudar desenvolvedores Front-end no código e solução de problemas; - Realizar estimativas de esforço para o desenvolvimento das atividades; - Garantir que plataformas funcionem bem, com qualidade e consistência; - Escrever documentações e guias claros, precisos e funcionais para o Back-end; - Realizar a liderança técnica da equipe e capacitação de profissionais ao longo do projeto; - e manter atualizado às últimas tendências digitais da área, sendo um multiplicador de conhecimento para a equipe.",
+            "salario": 5500
+        },
+        {
+            "id": 2,
+            "nome": "Dev Backend I",
+            "foto": "software-engineering.jpeg",
+            "descricao": "Desenvolver novos programas e fazer manutenção e melhorias em programas existentes. Web, Mobile, Realidade virtual. Atendimento as necessidades dos clientes. Conhecimento necessário: C#, tecnologia asp.net framework mvvm, e asp.net core mvc Conhecimento desejado: C#, .Net Core 5, MVC, Javascript, CSS, HTML, MySql, React Native, Angular e Azure Experiencia minima de 2 anos na area.",
+            "salario": 8700
+        },
+        {
+            "id": 3,
+            "nome": "Dev Backend II",
+            "foto": "software-engineer-2.jpeg",
+            "descricao": "Integrar e sustentar sistemas baseados em javascript em ambiente linux/kubernetes. Monitorar e atuar em contingências técnicas e de segurança. Atuar na continuidade dos serviços da plataforma da empresa. Desenvolver novas funcionalidades e realizar reparos pontuais e de emergência na plataforma. Habilidades essenciais (não é obrigatório possuir conhecimento e/ou experiência em todos): Git. Javascript. SQL. Linux. Bash. Nginx. Habilidades desejáveis (não é obrigatório possuir conhecimento em todos): Kubernetes. PostgreSQL. AMQP/RabbitMQ. OpenSSL. TCP/IP. HTTP. MQTT.",
+            "salario": 12150
+        }
+    ]
+}

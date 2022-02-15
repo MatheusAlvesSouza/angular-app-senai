@@ -1,0 +1,9 @@
+#detalhe-container {
+    width: 40vw;
+    margin: 0 auto;
+}
+
+.card {
+    min-width: 40vw;
+    text-align: center;
+}

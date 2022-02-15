@@ -1,0 +1,12 @@
+<section class="lista-vagas">
+  <div *ngFor="let vaga of vagas">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="assets\img\vagas\{{vaga.foto}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Vaga: {{vaga.nome}}</h5>
+        <p class="card-text">Salário: R${{vaga.salario}}</p>
+        <a class="btn btn-primary" routerLink="/detalhe-vaga/{{vaga.id}}" role="button">Ver detalhe da Vaga</a>
+      </div>
+    </div>
+  </div>
+</section>
